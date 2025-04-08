@@ -55,8 +55,8 @@ markdown_extensions:
   - pymdownx.superfences
 
 extra:
-  head: |
-    <meta name="referrer" content="no-referrer">
-    
+  head:
+    - '<meta name="referrer" content="no-referrer">'
+
 extra_css:
   - assets/extra.css
